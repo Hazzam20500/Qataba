@@ -2,14 +2,14 @@
   "Gold": {
     "update_code": "4",
     "reminder_time": "3",
-    "update_version": "v45.15",
+    "update_version": "v46.15",
   "com.HTwhatsapp": "https://www.hazam519.com/2018/10/HT2WhatsApp-Gold.html",
     "com.HT2whatsapp": "https://www.hazam519.com/2018/08/Downloadht2whatsapp-hazam.html",
     "com.HT3whatsapp": "https://www.hazam519.com/2018/12/Psychiatry-hazzam.html",
     "com.HT4whatsapp": "https://www.hazam519.com/2018/08/Downloadht2whatsapp-hazam.html",
     "com.HT3whatsapp": "https://www.hazam519.com/2018/08/Downloadht2whatsapp-hazam.html",
     "update_message": "
-<p>Update Vتحديث 45.15</p>
+<p>Update Vتحديث 46.15</p>
 <li>التحديث لنسخة الماركت 2.23.25.78</li>
 <li>حصريا إصلاح مشكلة الحظر وحل مشكلة تنبيه يجب استخدام الواتساب الرسمي</li>
 <li>اضافة ميزة البحث عن الرسائل داخل المحادثة حسب التاريخ والوقت</li>
