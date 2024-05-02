@@ -1,6 +1,6 @@
 {
   "Gold": {
-    "update_code": "8",
+    "update_code": "7",
     "reminder_time": "3",
     "update_version": "v46.15",
   "com.htwhatsapp": "https://www.hazam519.com/2018/10/HT2WhatsApp-Gold.html",
