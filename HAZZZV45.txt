@@ -1,18 +1,18 @@
 {
   "Gold": {
-    "update_code": "7",
+    "update_code": "8",
     "reminder_time": "3",
-    "update_version": "v46.15",
-  "com.htwhatsapp": "https://www.hazam519.com/2018/10/HT2WhatsApp-Gold.html",
+    "update_version": "v45.1",
+  "com.htwhatsapp": "https://www.hazam519.com/2018/08/Downloadht2whatsapp-hazam.html",
     "com.ht2whatsapp": "https://www.hazam519.com/2018/08/Downloadht2whatsapp-hazam.html",
-    "com.ht3whatsapp": "https://www.hazam519.com/2018/12/Psychiatry-hazzam.html",
+    "com.ht3whatsapp": "https://www.hazam519.com/2018/08/Downloadht2whatsapp-hazam.html",
     "update_message": "
-<p>Update Vتحديث 46.15</p>
-<li>التحديث لنسخة الماركت 2.23.25.78</li>
+<p>Update Vتحديث 45.1</p>
+<li>التحديث لنسخة الماركت 62.24.8.8</li>
 <li>حصريا إصلاح مشكلة الحظر وحل مشكلة تنبيه يجب استخدام الواتساب الرسمي</li>
 <li>اضافة ميزة البحث عن الرسائل داخل المحادثة حسب التاريخ والوقت</li>
-<li>ارسال مقطع صوتي للاستماع لمرة واحدة</li>
-<li>تفعيل ظهور التاريخ والاسم بشكل تلقائي عند نسخ اكثر من رسالة</li>
+<li>اضافة الشكل الجديد للواتساب</li>
+<li>تحسسين ميزة الشبح</li>
 <li>طريقة جديد لعرض وتطبيق الخطوط</li>
 <li>خيار الرجوع الى الواجهة الرئيسية القديمة(طلب من المتابعين)</li>
 <li>اصلاح مشكلةإخفاء صحين القراءة </li>
@@ -26,7 +26,7 @@
 <li>اصلاح عدم فتح المحادثات المخفية في بعض الاشكال</li>
 <li>إصلاحات اخرى</li>
 
-<li>Base Update: 2.23.25.78</li>
+<li>Base Update:  62.24.8.8</li>
 <li>[Anti-Ban] Fix SMS/Call Verification</li>
 <li>Enabled Search in Chat by (Date / Time)</li>
 <li>Enabled Send voice notes(View Once)</li>
