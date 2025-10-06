@@ -1,0 +1,17 @@
+{
+  "HTMods": {
+    "update_code": "2",
+    "وقت التذكير": "1",
+    "update_version": "V2",
+    "com.instagram.android": "https://www.hazam519.com/2024/01/htinstagram.html?m=1",
+    "com.HTInsta.android": "https://www.hazam519.com/2024/01/htinstagram.html?m=1",
+    "رسالة التحديث": "
+<p>تحديث V2</p>
+<li>التحديث الأساسي: 325.0.0.35.91</li>
+<li>تم إصلاح مشكلة التعطل عند فتح محادثات المجموعة</li>
+<li>تم إصلاح موقع زر الإرسال</li>
+<li>تم إصلاح المشكلة عند تنزيل مقاطع الفيديو التي تظهر أنها غير مدعومة</li>
+<li>إصلاحات أخرى</li>
+"
+  }
+}
