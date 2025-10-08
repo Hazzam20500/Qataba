@@ -1,17 +1,20 @@
 {
   "HTMods": {
     "update_code": "3",
-    "وقت التذكير": "1",
+    "reminder_time": "1",
     "update_version": "V3",
-    "com.instagram.android": "https://www.hazam519.com/2024/01/htinstagram.html?m=1",
-    "com.HTInsta.android": "https://www.hazam519.com/2024/01/htinstagram.html?m=1",
-    "رسالة التحديث": "
-<p>تحديث V3</p>
-<li>التحديث الأساسي: 325.0.0.35.91</li>
-<li>تم إصلاح مشكلة التعطل عند فتح محادثات المجموعة</li>
-<li>تم إصلاح موقع زر الإرسال</li>
-<li>تم إصلاح المشكلة عند تنزيل مقاطع الفيديو التي تظهر أنها غير مدعومة</li>
-<li>إصلاحات أخرى</li>
-"
-  }
-}
+    "com.instagram.android": "https://www.hazam519.com/2024/01/htinstagram.html",
+    "com.ANInsta.android": "https://www.hazam519.com/2024/01/htinstagram.html",
+    "update_message": "
+<p>Update Vتحديث 3</p>
+<li>التحديث ل� سخة الماركت 325.0.0.35.91</li>
+<li>إصلاح مشكلة الا� هيار ع� د فتح دردشات جماعيه</li>
+<li>إصلاح مكا�  زر الارسال</li>
+<li>إصلاح مشكلة ع� د تحميل الفيديوهات يظهر ا� ها غير مدعومه</li>
+<li>إصلاحات اخرى</li>
+
+<li>Base Update: 325.0.0.35.91</li>
+<li>Fixed Crash problem when opening group chats</li>
+<li>Fixed Location of the Send button</li>
+<li>Fixed Problem when downloading videos shows that they are not supported</li>
+<li>Other fixes</li>
