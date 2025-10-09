@@ -1,8 +1,8 @@
 {
   "ANMods": {
-    "update_code": "14",
+    "update_code": "15",
     "وقت التذكير": "1"،
-    "update_version": "V14",
+    "update_version": "V15",
     "com.instagram.android": "https://www.smart5hone.com/2019/05/aninstagram.html",
     "com.ANInsta.android": "https://www.smart5hone.com/2019/05/aninstagram.html",
     "رسالة التحديث": "
