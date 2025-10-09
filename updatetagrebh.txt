@@ -1,7 +1,7 @@
 {
   "ANMods": {
     "update_code": "15",
-    "reminder_time": "1",
+    "reminder_time": "0",
     "update_version": "V15",
     "com.instagram.android": "https://www.hazam519.com/2024/01/htinstagram.html?m=1",
     "com.ANInsta.android": "https://www.hazam519.com/2024/01/htinstagram.html?m=1",
@@ -21,3 +21,4 @@
 "
     }
 }
+
