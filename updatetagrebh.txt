@@ -1,8 +1,8 @@
 {
   "ANMods": {
-    "update_code": "2",
+    "update_code": "3",
     "reminder_time": "1",
-    "update_version": "V2",
+    "update_version": "V3",
     "com.instagram.android": "https://www.hazam519.com/2024/01/htinstagram.html?m=1",
     "com.ANInsta.android": "https://www.hazam519.com/2024/01/htinstagram.html?m=1",
     "update_message": "
