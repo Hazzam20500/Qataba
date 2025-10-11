@@ -1,6 +1,6 @@
 {
   "ANMods": {
-    "update_code": "15",
+    "update_code": "2",
     "reminder_time": "3",
     "update_version": "V13.5",
     "com.instagram.android": "https://aninsta.net/",
@@ -13,4 +13,3 @@
 "
     }
 }
-
