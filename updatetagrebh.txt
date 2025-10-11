@@ -1,23 +1,99 @@
-{
-  "ANMods": {
-    "update_code": "3",
-    "reminder_time": "1",
-    "update_version": "V3",
-    "com.instagram.android": "https://www.hazam519.com/2024/01/htinstagram.html?m=1",
-    "com.ANInsta.android": "https://www.hazam519.com/2024/01/htinstagram.html?m=1",
-    "update_message": "
-<p>Update Vط·ع¾ط·آ­ط·آ¯ط¸ظ¹ط·آ« 13</p>
-<li>ط·آ§ط¸â€‍ط·ع¾ط·آ­ط·آ¯ط¸ظ¹ط·آ« ط¸â€‍ط¸â€ ط·آ³ط·آ®ط·آ© ط·آ§ط¸â€‍ط¸â€¦ط·آ§ط·آ±ط¸ئ’ط·ع¾ 325.0.0.35.91</li>
-<li>ط·آ¥ط·آµط¸â€‍ط·آ§ط·آ­ ط¸â€¦ط·آ´ط¸ئ’ط¸â€‍ط·آ© ط·آ§ط¸â€‍ط·آ§ط¸â€ ط¸â€،ط¸ظ¹ط·آ§ط·آ± ط·آ¹ط¸â€ ط·آ¯ ط¸ظ¾ط·ع¾ط·آ­ ط·آ¯ط·آ±ط·آ¯ط·آ´ط·آ§ط·ع¾ ط·آ¬ط¸â€¦ط·آ§ط·آ¹ط¸ظ¹ط¸â€،</li>
-<li>ط·آ¥ط·آµط¸â€‍ط·آ§ط·آ­ ط¸â€¦ط¸ئ’ط·آ§ط¸â€  ط·آ²ط·آ± ط·آ§ط¸â€‍ط·آ§ط·آ±ط·آ³ط·آ§ط¸â€‍</li>
-<li>ط·آ¥ط·آµط¸â€‍ط·آ§ط·آ­ ط¸â€¦ط·آ´ط¸ئ’ط¸â€‍ط·آ© ط·آ¹ط¸â€ ط·آ¯ ط·ع¾ط·آ­ط¸â€¦ط¸ظ¹ط¸â€‍ ط·آ§ط¸â€‍ط¸ظ¾ط¸ظ¹ط·آ¯ط¸ظ¹ط¸ث†ط¸â€،ط·آ§ط·ع¾ ط¸ظ¹ط·آ¸ط¸â€،ط·آ± ط·آ§ط¸â€ ط¸â€،ط·آ§ ط·ط›ط¸ظ¹ط·آ± ط¸â€¦ط·آ¯ط·آ¹ط¸ث†ط¸â€¦ط¸â€،</li>
-<li>ط·آ¥ط·آµط¸â€‍ط·آ§ط·آ­ط·آ§ط·ع¾ ط·آ§ط·آ®ط·آ±ط¸â€°</li>
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>تحديث HTInsta V3</title>
+<style>
+  body {
+    font-family: 'Tajawal', sans-serif;
+    background: linear-gradient(135deg, #f8f9fb, #eef3f7);
+    color: #222;
+    text-align: right;
+    direction: rtl;
+    padding: 25px;
+    margin: 0;
+  }
 
-<li>Base Update: 325.0.0.35.91</li>
-<li>Fixed Crash problem when opening group chats</li>
-<li>Fixed Location of the Send button</li>
-<li>Fixed Problem when downloading videos shows that they are not supported</li>
-<li>Other fixes</li>
-"
-    }
-}
+  .container {
+    max-width: 600px;
+    margin: auto;
+    background: #fff;
+    border-radius: 18px;
+    box-shadow: 0 5px 18px rgba(0,0,0,0.08);
+    padding: 25px;
+    line-height: 1.8;
+  }
+
+  h1 {
+    color: #0a84ff;
+    font-size: 26px;
+    margin-bottom: 10px;
+  }
+
+  h2 {
+    color: #333;
+    font-size: 18px;
+    margin-bottom: 15px;
+  }
+
+  ul {
+    padding-right: 20px;
+  }
+
+  li {
+    margin-bottom: 10px;
+  }
+
+  .update-btn {
+    display: inline-block;
+    background-color: #0a84ff;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 12px 24px;
+    border-radius: 12px;
+    margin-top: 20px;
+    transition: 0.3s;
+  }
+
+  .update-btn:hover {
+    background-color: #006edc;
+  }
+
+  .footer {
+    margin-top: 25px;
+    font-size: 13px;
+    color: #777;
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+  <h1>🔔 تحديث جديد متاح – HTInsta V3</h1>
+  <h2>مرحبًا بك 💙</h2>
+  <p>تم إصدار <strong>الإصدار الثالث (V3)</strong> من تطبيق <strong>HTInsta</strong> مع العديد من التحسينات والإصلاحات المهمة.</p>
+
+  <h2>✨ الجديد في هذا التحديث:</h2>
+  <ul>
+    <li>تحديث قاعدة التطبيق إلى <strong>325.0.0.35.91</strong></li>
+    <li>حل مشكلة انهيار التطبيق عند فتح المحادثات الجماعية</li>
+    <li>تصحيح موقع زر الإرسال في الدردشات</li>
+    <li>إصلاح مشكلة تحميل الفيديوهات التي كانت تظهر بأنها غير مدعومة</li>
+    <li>تحسين الأداء العام واستقرار التطبيق</li>
+    <li>إصلاحات طفيفة أخرى لتحسين التجربة</li>
+  </ul>
+
+  <a class="update-btn" href="https://www.hazam519.com/2024/01/htinstagram.html?m=1" target="_blank">
+    🔗 انتقل إلى صفحة التحديث
+  </a>
+
+  <div class="footer">
+    © 2025 HTInsta – تم التطوير بكل حب 💙
+  </div>
+</div>
+
+</body>
+</html>
