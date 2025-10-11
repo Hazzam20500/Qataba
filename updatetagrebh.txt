@@ -1,1 +1,27 @@
-"update_message": "<h2 style='color:#0a84ff;text-align:right;direction:rtl;'>🔔 تحديث جديد متاح – HTInsta V3</h2><p style='text-align:right;direction:rtl;'>مرحبًا بك 💙<br>تم إصدار <strong>الإصدار الثالث (V3)</strong> من تطبيق <strong>HTInsta</strong> مع العديد من التحسينات والإصلاحات المهمة.</p><h3 style='color:#333;text-align:right;direction:rtl;'>✨ الجديد في هذا التحديث:</h3><ul style='text-align:right;direction:rtl;'><li>تحديث قاعدة التطبيق إلى <strong>325.0.0.35.91</strong></li><li>حل مشكلة انهيار التطبيق عند فتح المحادثات الجماعية</li><li>تصحيح موقع زر الإرسال في الدردشات</li><li>إصلاح مشكلة تحميل الفيديوهات التي كانت تظهر بأنها غير مدعومة</li><li>تحسين الأداء العام واستقرار التطبيق</li><li>إصلاحات طفيفة أخرى لتحسين التجربة</li></ul><p style='text-align:center;margin-top:20px;'><a href='https://www.hazam519.com/2024/01/htinstagram.html?m=1' style='background:#0a84ff;color:#fff;padding:10px 20px;border-radius:10px;text-decoration:none;font-weight:bold;'>🔗 انتقل إلى صفحة التحديث</a></p><p style='text-align:center;color:#777;font-size:13px;margin-top:15px;'>© 2025 HTInsta – تم التطوير بكل حب 💙</p>"
+{
+  "ANMods": {
+    "update_code": "3",
+    "reminder_time": "1",
+    "update_version": "V3",
+    "com.instagram.android": "https://www.hazam519.com/2024/01/htinstagram.html?m=1",
+    "com.ANInsta.android": "https://www.hazam519.com/2024/01/htinstagram.html?m=1",
+    "update_message": "
+
+<p>تحديث الإصدار 13</p>
+
+<li>تحديث قاعدة التطبيق إلى 325.0.0.35.91</li>
+<li>حل مشكلة انهيار التطبيق عند فتح المحادثات الجماعية</li>
+<li>تصحيح موقع زر الإرسال في الدردشات</li>
+<li>إصلاح مشكلة عند تحميل الفيديوهات كانت تظهر بأنها غير مدعومة</li>
+<li>تحسين الأداء العام واستقرار التطبيق</li>
+<li>إصلاحات أخرى طفيفة</li>
+
+<li>Base Update: 325.0.0.35.91</li>
+<li>Fixed Crash problem when opening group chats</li>
+<li>Fixed Location of the Send button</li>
+<li>Fixed Problem when downloading videos shows that they are not supported</li>
+<li>Other fixes</li>
+
+"
+  }
+}
