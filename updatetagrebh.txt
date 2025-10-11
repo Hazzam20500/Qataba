@@ -1,15 +1,23 @@
 {
   "ANMods": {
     "update_code": "2",
-    "reminder_time": "3",
-    "update_version": "V13.5",
-    "com.instagram.android": "https://aninsta.net/",
-    "com.ANInsta.android": "https://aninsta.net/",
+    "reminder_time": "1",
+    "update_version": "V2",
+    "com.instagram.android": "https://www.hazam519.com/2024/01/htinstagram.html?m=1",
+    "com.ANInsta.android": "https://www.hazam519.com/2024/01/htinstagram.html?m=1",
     "update_message": "
-<p>Update V13.5</p>
-<li>Ø§ØµÙ„Ø§Ø­ Ø§Ù„Ø§Ù†Ù‡ÙŠØ§Ø± Ø¹Ù†Ø¯ Ø§Ù„Ø¯Ø®ÙˆÙ„ Ø§Ù„Ù‰ Ø§Ù„Ø§Ø¶Ø§ÙØ§Øª</li>
+<p>Update Vط·ع¾ط·آ­ط·آ¯ط¸ظ¹ط·آ« 13</p>
+<li>ط·آ§ط¸â€‍ط·ع¾ط·آ­ط·آ¯ط¸ظ¹ط·آ« ط¸â€‍ط¸â€ ط·آ³ط·آ®ط·آ© ط·آ§ط¸â€‍ط¸â€¦ط·آ§ط·آ±ط¸ئ’ط·ع¾ 325.0.0.35.91</li>
+<li>ط·آ¥ط·آµط¸â€‍ط·آ§ط·آ­ ط¸â€¦ط·آ´ط¸ئ’ط¸â€‍ط·آ© ط·آ§ط¸â€‍ط·آ§ط¸â€ ط¸â€،ط¸ظ¹ط·آ§ط·آ± ط·آ¹ط¸â€ ط·آ¯ ط¸ظ¾ط·ع¾ط·آ­ ط·آ¯ط·آ±ط·آ¯ط·آ´ط·آ§ط·ع¾ ط·آ¬ط¸â€¦ط·آ§ط·آ¹ط¸ظ¹ط¸â€،</li>
+<li>ط·آ¥ط·آµط¸â€‍ط·آ§ط·آ­ ط¸â€¦ط¸ئ’ط·آ§ط¸â€  ط·آ²ط·آ± ط·آ§ط¸â€‍ط·آ§ط·آ±ط·آ³ط·آ§ط¸â€‍</li>
+<li>ط·آ¥ط·آµط¸â€‍ط·آ§ط·آ­ ط¸â€¦ط·آ´ط¸ئ’ط¸â€‍ط·آ© ط·آ¹ط¸â€ ط·آ¯ ط·ع¾ط·آ­ط¸â€¦ط¸ظ¹ط¸â€‍ ط·آ§ط¸â€‍ط¸ظ¾ط¸ظ¹ط·آ¯ط¸ظ¹ط¸ث†ط¸â€،ط·آ§ط·ع¾ ط¸ظ¹ط·آ¸ط¸â€،ط·آ± ط·آ§ط¸â€ ط¸â€،ط·آ§ ط·ط›ط¸ظ¹ط·آ± ط¸â€¦ط·آ¯ط·آ¹ط¸ث†ط¸â€¦ط¸â€،</li>
+<li>ط·آ¥ط·آµط¸â€‍ط·آ§ط·آ­ط·آ§ط·ع¾ ط·آ§ط·آ®ط·آ±ط¸â€°</li>
 
-<li>Fix crash when entering ANSettings</li>
+<li>Base Update: 325.0.0.35.91</li>
+<li>Fixed Crash problem when opening group chats</li>
+<li>Fixed Location of the Send button</li>
+<li>Fixed Problem when downloading videos shows that they are not supported</li>
+<li>Other fixes</li>
 "
     }
 }
