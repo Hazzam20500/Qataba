@@ -1,13 +1,13 @@
 {
   "ANMods": {
-    "update_code": "3",
+    "update_code": "2",
     "reminder_time": "1",
-    "update_version": "V3",
+    "update_version": "V2",
     "com.instagram.android": "https://www.hazam519.com/2024/01/htinstagram.html?m=1",
     "com.ANInsta.android": "https://www.hazam519.com/2024/01/htinstagram.html?m=1",
     "update_message": "
 
-<p>🔔 تحديث جديد متاح – HTInsta V3</p>
+<p>🔔 تحديث جديد متاح – HTInsta V2</p>
 
 <li>تحديث قاعدة التطبيق إلى 325.0.0.35.91</li>
 <li>حل مشكلة انهيار التطبيق عند فتح المحادثات الجماعية</li>
@@ -25,3 +25,4 @@
 "
   }
 }
+
