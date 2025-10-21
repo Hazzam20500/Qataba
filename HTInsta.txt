@@ -1,29 +1,2 @@
-{
-  "ANMods": {
-    "update_code": "2",
-    "reminder_time": "1",
-    "update_version": "V2",
-    "com.instagram.android": "https://www.hazam519.com/2024/01/htinstagram.html?m=1",
-    "com.ANInsta.android": "https://www.hazam519.com/2024/01/htinstagram.html?m=1",
-    "update_message": "
-
-<p>🔔 تحديث جديد متاح – HTInsta V2</p>
-
-<li>تحديث قاعدة التطبيق إلى 325.0.0.35.91</li>
-<li>حل مشكلة انهيار التطبيق عند فتح المحادثات الجماعية</li>
-<li>تصحيح موقع زر الإرسال في الدردشات</li>
-<li>إصلاح مشكلة عند تحميل الفيديوهات كانت تظهر بأنها غير مدعومة</li>
-<li>تحسين الأداء العام واستقرار التطبيق</li>
-<li>إصلاحات أخرى طفيفة</li>
-
-<li>Base Update: 325.0.0.35.91</li>
-<li>Fixed Crash problem when opening group chats</li>
-<li>Fixed Location of the Send button</li>
-<li>Fixed Problem when downloading videos shows that they are not supported</li>
-<li>Other fixes</li>
-
-"
-  }
-}
-
+{'ver1':'2', 'ver2':'2', 'ver3':'\n🎲 [تحديث قاعدة] 311.0.0.32.118\n⭐ [اضافة] جميع ميزات انستقرام الجديده\n⭐ [اضافة] انشاء قنوات\n🎲 [اصلاح] جميع مشاكل الانهيارات\n🎲 [اصلاح] العديد من الأعطال العشوائية\n\n🎲[Base update] 311.0.0.32.118\n⭐ [Added] All new Instagram features\n⭐[Added] Create channels\n🎲 [Fixed] All crash problems\n🎲 [Fixed] Many Random Crash\n' , 'dli':'https://www.hazam519.com/2024/01/htinstagram.html?m=1'}
 
