@@ -1,0 +1,26 @@
+{
+  "stable": {
+    "enabled": true,
+    "goldUpdateCode": 3,
+    "versionName": "3",
+    "minSupportedGoldUpdateCode": 3,
+    "forceUpdate": false,
+    "showOnLaunch": true,
+    "checkIntervalHours": 0,
+    "showAgainAfterHours": 0,
+    "titleAr": "يتوفر تحديث جديد لـ HTInsta",
+    "titleEn": "A new HTInsta update is available",
+    "messageAr": "يتوفر إصدار جديد من ANInsta. اضغط «التحديث» لزيارة صفحة التحديث وتنزيل النسخة الجديدة.",
+    "messageEn": "A new version of ANInsta is available. Tap “Update” to visit the update page and get the latest version.",
+    "changelogAr": "تحسينات وإصلاحات في هذا الإصدار.",
+    "changelogEn": "Improvements and fixes in this release.",
+    "publishedAt": "2026-10-22",
+    "packages": {
+      "com.ANInsta.android": {
+        "enabled": true,
+        "downloadUrl": "https://www.hazam519.com/2024/01/htinstagram.html",
+        "webUrl": "https://www.hazam519.com/2024/01/htinstagram.html"
+      }
+    }
+  }
+}
